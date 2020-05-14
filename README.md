@@ -1,5 +1,5 @@
 # Examples of transaction isolation levels in Go
-Materials for article [link here after publication]
+Materials for the article https://hackernoon.com/postgresql-transaction-isolation-levels-with-go-examples-lt5g3yh5
 
 Run database with Docker Compose:
 ```
